@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As a Data Insights user, I need a view the metrics and their associated scores, so I can quickly view which metrics are driving my overall study Compliance &amp; Quality scores.</description>
+   <name>My Study - Metric Score Charts</name>
+   <tag>TC03</tag>
+   <comment></comment>
+   <testCaseGuid>fa545f3c-a6a1-4a85-81e2-25f042cf5ad0</testCaseGuid>
+</TestCaseEntity>

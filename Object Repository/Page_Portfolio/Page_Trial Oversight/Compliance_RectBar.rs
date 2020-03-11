@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Compliance_RectBar</name>
+   <tag></tag>
+   <elementGuidId>43b499ff-bb4b-4e23-a9f6-2fc7d780f628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>//mat-grid-tile[1]/figure/mat-card/ert-bar-chart/div/*[1]/*[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-grid-tile[1]/figure/mat-card/ert-bar-chart/div/*[1]/*[1]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
