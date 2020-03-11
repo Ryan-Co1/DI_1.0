@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>Check API ping</name>
+   <tag></tag>
+   <elementGuidId>c561e22e-dacf-4c5a-96eb-468c3277731f</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>${host}/ping</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceFunction></soapServiceFunction>
+   <variables>
+      <defaultValue>GlobalVariable.host</defaultValue>
+      <description></description>
+      <id>d1117cfc-d0fd-4df0-8453-20d83129e7ad</id>
+      <masked>false</masked>
+      <name>host</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>
