@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifies that ping request for running system</description>
+   <name>EFS_HealthCheck_Ping_DI14_V1.0</name>
+   <tag>DI-14</tag>
+   <comment></comment>
+   <testCaseGuid>30128cef-69d1-4295-905e-0342d28a8818</testCaseGuid>
+</TestCaseEntity>
